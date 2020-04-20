@@ -1,26 +1,13 @@
-# README
+# PLANTIFY
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Plantify is a web app for plant lovers (or plant killers) that allows users to keep track of their plant care needs and reminds them when to water the plants.
 
-Things you may want to cover:
+Video Demo: https://youtu.be/ntkYMjSWPzM
 
-* Ruby version
+Tech Stacks:
+Ruby
+Ruby on Rails
+MySQL
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-This is new stuff!
+Co-created by Jay Wen and Alisher Fayzimatov
